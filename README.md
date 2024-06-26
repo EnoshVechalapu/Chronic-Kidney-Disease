@@ -16,7 +16,7 @@ Chronic Kidney Disease (CKD) is a significant health concern worldwide. Early di
 ## Dataset
 
 The dataset used in this project is sourced from Kaggle. It contains medical records of patients, including attributes such as age, blood pressure, specific gravity, albumin, and more. The original dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease).
-The csv file is uploaded above as
+The csv file is uploaded above as kidney_disease.csv
 
 ## Exploratory Data Analysis And Modeling
 Detailed exploratory data analysis (EDA) is conducted in the ChronicKidneyDisease_EDAandMLmodels.ipynb notebook. Key findings and visualizations are included to understand the dataset better.
