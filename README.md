@@ -6,7 +6,7 @@ This repository contains a machine learning project for classifying chronic kidn
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Exploratory Data Analysis](#exploratory-data-analysis-and-modeling)
+- [Exploratory Data Analysis And Modeling](#exploratory-data-analysis-and-modeling)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
